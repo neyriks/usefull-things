@@ -1,11 +1,11 @@
-###This will completely disable scrolling:
+### h3 This will completely disable scrolling:
 
 $('html, body').css({
     overflow: 'hidden',
     height: '100%'
 });
 
-###To restore:
+### h3 To restore:
 
 $('html, body').css({
     overflow: 'auto',
